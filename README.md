@@ -1,1 +1,3 @@
-# react_temp
+環境：Next.js
+# About
+Next.jsのテンプレートリポジトリ
